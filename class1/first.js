@@ -1,3 +1,4 @@
+{
 // Practice //
 // To Store data of ball pen //
 const product = {
@@ -7,7 +8,8 @@ const product = {
     price: 270
 };
 console.log(product);
-
+}
+{
 // To store data of linkedin profile //
 const profile = {
     isName: "Umair Nawaz",
@@ -17,3 +19,4 @@ const profile = {
 };
 
 console.log(profile);
+}
